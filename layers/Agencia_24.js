@@ -1,0 +1,1 @@
+var json_Agencia_24 = {"type":"FeatureCollection","name":"Agencia_24","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"localidad":"Embarcacion"},"geometry":{"type":"Point","coordinates":[-64.090081793633786,-23.204213526982706]}}]}
